@@ -1,1 +1,3 @@
-Simple Streamlit app for iitm assignmnet : Add two numbers. Hosted to Heroku
+A Fuzzymatcher Web-app:
+   Takes two input strings and shows various mathicng scores using different matching algorithm.
+  
