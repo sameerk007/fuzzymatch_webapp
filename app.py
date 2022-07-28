@@ -31,8 +31,9 @@ def text_to_vector(text):
 
 
 # WEB PAGE ----------------------------------------------------
+st.set_page_config(page_title='Fuzzy String Matching',page_icon=":page_with_curl:",layout='wide')
 st.markdown(
-    "<h2 style='text-align: center; color: red;'>Fuzzy String Matching</h2>",
+    "<h2 style='text-align: center; color: #179D5D;'>Fuzzy String Matching</h2>",
     unsafe_allow_html=True,
 )
 
